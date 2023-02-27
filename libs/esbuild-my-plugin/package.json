@@ -1,0 +1,7 @@
+{
+  "name": "@mycompany/esbuild-my-plugin",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "main": "src/esbuild-my-plugin.js",
+  "types": "src/esbuild-my-plugin.d.ts"
+}
